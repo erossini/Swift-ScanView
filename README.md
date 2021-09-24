@@ -19,3 +19,4 @@ For more code and explanation, visit my blog [PureSourceCode](https://www.pureso
 - [Starting Out With Swift Commands](https://www.puresourcecode.com/programming-languages/swift/starting-out-with-swift-commands/)
 - [Hello World Using Xcode And Swift](https://www.puresourcecode.com/programming-languages/swift/hello-world-using-xcode-and-swift/)
 - [This Is Swift!](https://www.puresourcecode.com/programming-languages/swift/this-is-swift/)
+- [Barcode Scanner in Swift on iOS](https://www.puresourcecode.com/programming-languages/swift/barcode-scanner-in-swift-on-ios/)
